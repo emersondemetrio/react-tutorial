@@ -1,8 +1,7 @@
 {
-  "name": "tableless",
+  "name": "react-tutorial",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "React Tutorial",
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
